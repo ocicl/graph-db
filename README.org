@@ -1,0 +1,9 @@
+* graph-db (aka vivace-graph-v3)
+
+VivaceGraph version 3. Open source Common Lisp graph database & Prolog implementation. Supersedes http://github.com/kraison/vivace-graph-v2.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/kraison/vivace-graph-v3.git |
+| commit  | 0859c36                                            |
+| systems | graph-db                                           |
+|---------+----------------------------------------------------|
