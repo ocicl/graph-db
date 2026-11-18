@@ -4,7 +4,7 @@ VivaceGraph version 3. Open source Common Lisp graph database & Prolog implement
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/kraison/vivace-graph-v3.git |
-| commit  | 7bc038f                                            |
+| commit  | bf2b972                                            |
 | systems | graph-db                                           |
 |---------+----------------------------------------------------|
   
